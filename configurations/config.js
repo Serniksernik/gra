@@ -20,7 +20,7 @@ var Config = module.exports = {
     level: 'debug'
   },
 
-  redisConnection: process.env.MV_REDIS_HOST_URL || 'redis://localhost',
+  redisConnection: process.env.MV_REDIS_HOST_URL || 'redis://www.janwerkse.com',
 
   //---------------------
   //Login Configurations
